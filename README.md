@@ -7,8 +7,7 @@ and edit listings, manage aution with other users and also interact withing comm
 
 1. Clone the repository.
 2. Create a virtual environment and activate it.
-3. Install the required packages by running `pip install -r requirements.txt`.
-4. Run `python manage.py migrate` to create the necessary database tables.
+3. Run `python manage.py migrate` to create the necessary database tables.
 
 ## Video
 
