@@ -14,4 +14,4 @@ and edit listings, manage aution with other users and also interact withing comm
 
 Here is a video of the application in action:
 
-[Commerce Video](https://youtu.be/-TTmzxTylaM)
+[Mail Video](https://youtu.be/o_444b4jwK4)
